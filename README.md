@@ -1,9 +1,9 @@
 # Two-Factor-Authentication-System-using-RFID-Sensor-and-Keypad
 
-#Overview
+## Overview
 This project implements a two-factor authentication (2FA) system that uses both RFID (Radio Frequency Identification) and a keypad for enhanced security. Users must present an RFID card and enter a correct PIN code to gain access.
 
-##Features
+## Features
 RFID Authentication: Uses RFID cards to identify users.
 Keypad Input: Requires a PIN code entered via a keypad.
 Two-Factor Authentication: Combines something you have (RFID card) with something you know (PIN code) for secure access.
